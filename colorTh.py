@@ -7,6 +7,7 @@ image= 'file/path/image.jpg'
 
 #RGB(3 streams) matrix representation of the image
 labrat = mpimg.imread(image)
+print(labrat)
 
 '''
 
