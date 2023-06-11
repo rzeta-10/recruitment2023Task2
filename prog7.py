@@ -22,7 +22,7 @@ def convert_to_bw(image, brightness_level):
     
     return bw_image
 
-image_path = 'file/path/image.jpg'  # Replace with the actual path to your image
+image_path = 'E:\Git\recruitment2023Task2\1134641.jpg'
 brightness_level = 0.5  # Specify your desired brightness level (between 0 and 1)
 
 # Load the image
